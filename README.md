@@ -28,5 +28,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/hubgan/Product-preview-card-component)
-- Live Site URL: [Add live site URL here](https://hubgan.github.io/Product-preview-card-component/)
+- Solution URL: [https://github.com/hubgan/Product-preview-card-component]
+- Live Site URL: [https://hubgan.github.io/Product-preview-card-component/]
